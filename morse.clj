@@ -9,3 +9,5 @@
 (defn morse-me []
   (for [x (lower-split (read-line))] (map dictionary x)))
 
+;Grzegorz Wilk 36420
+;Patryk Figel 36390
